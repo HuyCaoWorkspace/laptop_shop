@@ -122,7 +122,8 @@
                                                 </button>
                                             </form>
 
-                                        </div>                                        <div class="col-lg-12">
+                                        </div>
+                                        <div class="col-lg-12">
                                             <nav>
                                                 <div class="nav nav-tabs mb-4 border-0">
                                                     <button class="nav-link active border-0 fw-bold px-4 rounded-3 me-2 shadow-sm"
@@ -217,7 +218,8 @@
 
 
                                     </div>
-                                </div>                                <div class="col-lg-4 col-xl-3">
+                                </div>
+                                <!-- <div class="col-lg-4 col-xl-3">
                                     <div class="row g-4 fruite">
                                         <div class="col-lg-12">
                                             <div class="mb-4">
@@ -250,7 +252,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                             </div>
 

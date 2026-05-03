@@ -102,11 +102,13 @@
             border-radius: 10px;
             font-weight: 600;
             box-shadow: 0 4px 10px rgba(13, 110, 253, 0.2);
+            color: #fff;
         }
 
         .btn-create:hover {
             background: #0b5ed7;
             transform: translateY(-2px);
+            color: #fff;
         }
 
         .btn-action {

@@ -125,7 +125,7 @@
                         <h4 class="mb-4">Contact Us</h4>
                         <div class="contact-item">
                             <i class="fa fa-map-marker-alt"></i>
-                            <span>City Da Nang</span>
+                            <span>Can Tho</span>
                         </div>
                         <div class="contact-item">
                             <i class="fa fa-phone-alt"></i>
